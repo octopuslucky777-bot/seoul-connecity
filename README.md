@@ -1,1 +1,1 @@
-# seoul-connecitivty
+# seoul-connectivity
